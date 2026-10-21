@@ -1,0 +1,9 @@
+.lora_ade/
+__pycache__/
+*.pt
+outputs/
+data/
+.DS_Store
+scratch/
+*.egg-info/
+.pytest_cache/

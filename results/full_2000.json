@@ -1,0 +1,13 @@
+{
+  "mode": "full",
+  "subset": 2000,
+  "epochs": 1,
+  "lr": 5e-05,
+  "trainable_params": 66955010,
+  "total_params": 66955010,
+  "train_seconds": 34,
+  "accuracy": 0.825,
+  "precision": 0.5394736842105263,
+  "recall": 1.0,
+  "f1": 0.7008547008547008
+}

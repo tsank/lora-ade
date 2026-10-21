@@ -1,0 +1,13 @@
+{
+  "mode": "lora",
+  "subset": null,
+  "epochs": 3,
+  "lr": 0.0005,
+  "trainable_params": 739586,
+  "total_params": 67694596,
+  "train_seconds": 775,
+  "accuracy": 0.916267942583732,
+  "precision": 0.7592592592592593,
+  "recall": 0.8641686182669789,
+  "f1": 0.8083242059145673
+}
